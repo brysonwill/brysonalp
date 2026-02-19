@@ -1,0 +1,18 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2026-02-17 23:58:19",
+  "current_price": 263.8800048828125,
+  "signal": "HOLD",
+  "moving_averages": {
+    "short_ma": 266.8501416015625,
+    "long_ma": 239.86389205932616,
+    "prev_short_ma": 267.25022888183594,
+    "prev_long_ma": 239.6023812866211
+  },
+  "bst": {
+    "min_price": 171.67,
+    "max_price": 285.92,
+    "total_nodes": 266
+  },
+  "trades": []
+}
